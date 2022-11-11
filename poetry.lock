@@ -1,0 +1,19 @@
+[[package]]
+name = "diagram"
+version = "0.2.28"
+description = "Text mode diagrams using UTF-8 characters and fancy colors"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "3.11.0"
+content-hash = "b1796dcb7cdfe8fbd3301989df26511e251fb87c2bf0188bf92a911c51249111"
+
+[metadata.files]
+diagram = [
+    {file = "diagram-0.2.28-py2-none-any.whl", hash = "sha256:1d3529751c3b0c6437fa78abf91b6d5709cdc8a6a963c3e548c36dab7b607e41"},
+    {file = "diagram-0.2.28-py3-none-any.whl", hash = "sha256:996663dff771b6e45ed983647808caf89de22f7eb860b02822b31f85460729ab"},
+    {file = "diagram-0.2.28.tar.gz", hash = "sha256:cad92799c4340bc57a757f598024779f4866fcda49f17764d0f148a57d3f9d5c"},
+]
